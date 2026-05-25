@@ -34,6 +34,24 @@ This MVP focuses on exactly that.
 
 ---
 
+# Demo
+
+## Search Dashboard
+
+![Dashboard](./screenshots/dashboard.png)
+
+## Seamntic Search
+
+![Semantic search](./screenshots/sem-search.png)
+
+## BM25 Search
+
+![BM25 Search](./screenshots/demo.png)
+
+## Hybrid Retrieval Comparison
+
+![Hybrid Search](./screenshots/hybrid-search.png)
+
 # Tech Stack
 
 ## Backend
